@@ -1,0 +1,5 @@
+Name: Evolution in a competitive Environment
+Description: An agent based model exploring asexual vs sexual evolution in a predator-prey ecosystem 
+Authors: Jack Collings, Josh Dunkley, Demi Nimmo, Andrew Smith
+From: 19/10/2018 00:00
+To: 16/11/2018 00:00

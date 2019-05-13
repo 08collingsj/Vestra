@@ -1,0 +1,94 @@
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe.config
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.pdb
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.g.cs
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\App.g.cs
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.cache
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.lref
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.baml
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Resources.baml
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.g.resources
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.Properties.Resources.resources
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.GenerateResource.cache
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.exe
+c:\users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+U:\sources\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe.config
+U:\sources\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe
+U:\sources\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.pdb
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.g.cs
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.g.cs
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\App.g.cs
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.cache
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.lref
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.baml
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\Resources.baml
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.baml
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.g.resources
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.Properties.Resources.resources
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.GenerateResource.cache
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.exe
+U:\sources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe.config
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.pdb
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.g.cs
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.g.cs
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\App.g.cs
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.cache
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.lref
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.baml
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\Resources.baml
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.baml
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.g.resources
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.Properties.Resources.resources
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.GenerateResource.cache
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.exe
+C:\Users\q5081793\source\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.g.cs
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.baml
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\Pages\AllProjectsOverview.g.cs
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\DocumentsContainer.g.cs
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\PagesContainer.g.cs
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\ProjectsContainer.g.cs
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\Pages\AllProjectsOverview.baml
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\DocumentsContainer.baml
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\PagesContainer.baml
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\ProjectsContainer.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe.config
+F:\Final Year Resources\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.exe
+F:\Final Year Resources\MyPortfolio\MyPortfolio\bin\Debug\MyPortfolio.pdb
+F:\Final Year Resources\MyPortfolio\MyPortfolio\bin\Debug\System.Management.Automation.dll
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojAssemblyReference.cache
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\Pages\AllProjectsOverview.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\DocumentsContainer.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\PagesContainer.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\ProjectsContainer.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\App.g.cs
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.cache
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio_MarkupCompile.lref
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MainWindow.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Resources.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\Pages\AllProjectsOverview.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\DocumentsContainer.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\Navigation.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\PagesContainer.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\Views\UserControls\ProjectsContainer.baml
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.g.resources
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.Properties.Resources.resources
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.GenerateResource.cache
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CoreCompileInputs.cache
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CopyComplete
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.exe
+F:\Final Year Resources\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\bin\Debug\System.Management.Automation.dll
+C:\Users\q5081793\source\repos\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csproj.CopyComplete
