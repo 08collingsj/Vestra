@@ -13,11 +13,15 @@
         WindowStartupLocation="CenterScreen">
     <Grid Margin="10">
         <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <Button Content="Close Explorer" Click="CloseExplorerClick"/>
-        <Button Grid.Row="1" Content="Restart Explorer" Command="{Binding RestartExplorer}"/>
+        <uc:Navigation>
+        </uc:Navigation>
+        <Button Grid.Row="1" Content="Close Explorer" Click="CloseExplorerClick"/>
+        <Button Grid.Row="2" Content="Restart Explorer" Command="{Binding RestartExplorer}"/>
         <!--<Button Content="Exit" Click="ExitClick" Panel.ZIndex="1" Height="40" Width="40" HorizontalAlignment="Right" VerticalAlignment="Top"/>
         <Button Content="University Work" Click="UniWorkClick"/>
         <Button  Grid.Row="1"  Content="My Projects" Click="MyProjectsClick"/>
