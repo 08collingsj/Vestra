@@ -65,6 +65,7 @@
     <Compile Include="DelegateCommand.cs" />
     <Compile Include="HelperClasses\Navigation.cs" />
     <Compile Include="HelperClasses\PowerShellObject.cs" />
+    <Compile Include="Models\Author.cs" />
     <Compile Include="Models\Document.cs" />
     <Compile Include="Models\Page.cs" />
     <Compile Include="Models\Project.cs" />

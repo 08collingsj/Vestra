@@ -6,17 +6,36 @@ using System.Threading.Tasks;
 
 namespace MyPortfolio.Models
 {
-    class Project
+    public class Project
     {
-        private int _projectId;
-        private string _projectName;
-        private string _projectDescription;
-        private List<Tag> _projectTags;
-        private string _projectAuthor;
-        private State _projectState;
-        private string _projectPathToGithub;
-        private List<Document> _projectDocuments;
+        private int _projectId { get; set; }
+
+        private string _projectName { get; set; }
+        private string _projectDescription { get; set; }
+        private List<string> _projectTags { get; set; }
+        private List<Author> _projectAuthors { get; set; }
+        //private State _projectState {get;set;}
+        private string _projectPathToGithub { get; set; }
+        private List<Document> _projectDocuments { get; set; }
         //Open Project
+        public Project()
+        {
+            _projectId = Properties.Settings.Default.currentMaxId + 1;
+            Properties.Settings.Default.currentMaxId = _projectId;
+            _projectName = "";
+            _projectDescription = "";
+            _projectTags = new List<string>();
+            _projectAuthors = new List<Author>();
+            _projectPathToGithub = "";
+            _projectDocuments = new List<Document>();
+        }
+
+        public int GetProjectId() { return _projectId; }
+        public string GetProjectName() { return _projectName; }
+        public string GetDescription() { return _projectDescription; }
+        public string GetGithubUrl() { return _projectPathToGithub; }
+        public List<string> GetTags() { return _projectTags; }
+        public List<Author> GetAuthors() { return _projectAuthors; }
 
         //GetTags
 
