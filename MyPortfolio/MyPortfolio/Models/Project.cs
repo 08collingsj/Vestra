@@ -8,40 +8,45 @@ namespace MyPortfolio.Models
 {
     public class Project
     {
-        private int _projectId { get; set; }
+        private int projectId { get; set; }
 
-        private string _projectName { get; set; }
-        private string _projectDescription { get; set; }
-        private List<string> _projectTags { get; set; }
-        private List<Author> _projectAuthors { get; set; }
+        private string projectName { get; set; }
+        private string projectDescription { get; set; }
+        private List<string> projectTags { get; set; }
+        private List<Author> projectAuthors { get; set; }
         //private State _projectState {get;set;}
-        private string _projectPathToGithub { get; set; }
-        private List<Document> _projectDocuments { get; set; }
+        private string projectPathToGithub { get; set; }
+        private List<Document> projectDocuments { get; set; }
         //Open Project
         public Project()
         {
-            _projectId = Properties.Settings.Default.currentMaxId + 1;
-            Properties.Settings.Default.currentMaxId = _projectId;
-            _projectName = "";
-            _projectDescription = "";
-            _projectTags = new List<string>();
-            _projectAuthors = new List<Author>();
-            _projectPathToGithub = "";
-            _projectDocuments = new List<Document>();
+            projectId = Properties.Settings.Default.currentMaxId + 1;
+            Properties.Settings.Default.currentMaxId = projectId;
+            projectName = "";
+            projectDescription = "";
+            projectTags = new List<string>();
+            projectAuthors = new List<Author>();
+            projectPathToGithub = "";
+            projectDocuments = new List<Document>();
         }
-
-        public int GetProjectId() { return _projectId; }
-        public string GetProjectName() { return _projectName; }
-        public string GetDescription() { return _projectDescription; }
-        public string GetGithubUrl() { return _projectPathToGithub; }
-        public List<string> GetTags() { return _projectTags; }
-        public List<Author> GetAuthors() { return _projectAuthors; }
-
-        //GetTags
-
-        //GetState
-
-        //GetProjects
+        public Project(string _name, string _description, List<string> _projectTags, List<Author> _projectAuthors, string _projectPathToGithub, List<Document> _projectDocuments)
+        {
+            projectId = Properties.Settings.Default.currentMaxId + 1;
+            Properties.Settings.Default.currentMaxId = projectId;
+            projectName = _name;
+            projectDescription = _description;
+            projectTags = _projectTags;
+            projectAuthors = _projectAuthors;
+            projectPathToGithub = _projectPathToGithub;
+            projectDocuments = _projectDocuments;
+        }
+        public int GetProjectId() { return projectId; }
+        public string GetProjectName() { return projectName; }
+        public string GetDescription() { return projectDescription; }
+        public string GetGithubUrl() { return projectPathToGithub; }
+        public List<string> GetTags() { return projectTags; }
+        public List<Author> GetAuthors() { return projectAuthors; }
+        
 
     }
 }

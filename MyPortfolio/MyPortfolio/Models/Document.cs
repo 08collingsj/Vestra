@@ -11,21 +11,22 @@ namespace MyPortfolio.Models
         /*
          * Name, creation date and tags
          */
-        private string _name { get; set; }
-        private DateTime _creationDate { get; set; }
-        private List<string> _tagsList { get; set; }
+        private string name { get; set; }
+        private DateTime creationDate { get; set; }
+        private List<string> tagsList { get; set; }
+        private string documentLocation { get; set; }
         public Document(string name)
         {
-            _name = name;
+            this.name = name;
         }
-        public Document(string name, DateTime creationDate, List<string> tagsList)
+        public Document(string _name, DateTime _creationDate, List<string> _tagsList)
         {
-            _name = name;
-            _creationDate = creationDate;
-            _tagsList = tagsList;
+            this.name = name;
+            this.creationDate = creationDate;
+            this.tagsList = tagsList;
         }
 
-        public string GetName() { return _name; }
-        public DateTime GetDate() { return _creationDate; }
+        public string GetName() { return name; }
+        public DateTime GetDate() { return creationDate; }
     }
 }
